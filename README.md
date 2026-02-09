@@ -1,15 +1,16 @@
-# 🏦 Banking Management System (Java)
+# 🏨 Hotel Reservation System (Java)
 
 ## 📌 Project Overview
-This project is a Java console-based banking management system that allows users to manage bank accounts with basic operations such as account creation, deposits, withdrawals, and balance checking.
+This project is a Java console-based Hotel Reservation System that allows users to manage hotel rooms and customer reservations efficiently.
 
 ---
 
 ## 🚀 Features
-- Create bank account
-- Deposit money
-- Withdraw money
-- Check account balance
+- Add new rooms
+- View available and booked rooms
+- Book a room
+- View reservations
+- Cancel reservation
 - Menu-driven interface
 
 ---
@@ -22,7 +23,7 @@ This project is a Java console-based banking management system that allows users
 ---
 
 ## 📚 Concepts Applied
-- Object-Oriented Programming
+- Object-Oriented Programming (OOP)
 - Java Collections
 - Loops and conditional statements
 
@@ -35,19 +36,19 @@ java Main
 ---
 
 ## 🎯 Learning Outcomes
-- Built a real-world banking logic system
-- Practiced OOP concepts
-- Improved problem-solving skills
+- Implemented real-world reservation logic
+- Improved OOP understanding
+- Practiced Java collections and control flow
 
 ---
 
 ## 🔮 Future Enhancements
-- Add login system
-- Store data in database
-- Transaction history
-- GUI using JavaFX
+- Add customer ID and contact details
+- Store reservations in database
+- Room categories (Deluxe, Standard, Suite)
+- GUI using JavaFX or Swing
 
 ---
 
 ## 👨‍💻 Author
-Developed by Monty
+Developed by **Your Name**
